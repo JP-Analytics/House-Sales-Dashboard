@@ -1,22 +1,14 @@
 # House-Sales-Dashboard
 
 ## 📌 Project Overview
-Using an interactive dashboard, this project analyzes Walmart's sales in relation to four key performance indicators (KPIs):
-1. CPI
-2. Fuel Cost
-3. Unemployment Rate
-4. Temperature
+Using an interactive Tableau dashboard, this project analyzes house sales in Kings County, Seattle Washington.
 
 ## 📊 Features
-- Data Cleaning & Preprocessing
-- Conditional Formatting
-- Pivot Tables
+- Line Graphs
+- Histograms
+- Heat Maps
+- Map
 - Slicers
-- Visualization 
-- Interactive Dashboard
-
-## 📁 Data Source
-[Walmart Sales](https://www.kaggle.com/datasets/mikhail1681/walmart-sales?resource=download)
 
 ## ⚙️ Technologies Used
 - Tableau
